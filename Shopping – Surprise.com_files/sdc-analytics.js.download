@@ -1,0 +1,2 @@
+class SegmentAnalytics{static Page(){window.analytics&&window.analytics.page()}static Track(a,i){window.analytics&&window.analytics.track(a,i)}static Identify(a,i){window.analytics&&window.analytics.identify(a,i)}}
+//# sourceMappingURL=sdc-analytics.js.map

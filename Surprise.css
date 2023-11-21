@@ -1,0 +1,108 @@
+.bg-img{
+    position: relative;
+    margin-top: -10px;
+    margin-left: -10px;
+}
+.header-list, .hl{
+    display: inline-flex;
+    position: absolute;
+    justify-content: space-between;
+    border: 0px;
+    width: 600px;
+    color: white;
+    font-family: sans-serif;
+    top: 15px;
+    right: 40px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.logo{
+    position: absolute;
+    top: 15px;
+    font-family: sans-serif;
+    color: white;
+    font-weight: bold;
+    left: -650px;
+}
+.bg-font{
+    position: absolute;
+    color: white;
+    font-size: 50px;
+    font-family: cursive;
+    top: 40px;
+    left: 90px;
+    text-align: center;
+}
+.homepage-tagline{
+    position: absolute;
+    top: 270px;
+    left: 70px;
+}
+.qr{
+    position: absolute;
+    top: 350px;
+    left: 100px;
+}
+.gta{
+    position: absolute;
+    font-family: sans-serif;
+    color: white;
+    font-weight: bold;
+    top: 505px;
+    left: 120px;
+}
+.appstore{
+    position: absolute;
+    top: 360px;
+    left: 260px;
+}
+.ps{
+    position: absolute;
+    top: 430px;
+    left: 260px;
+}
+.link{
+    position: absolute;
+    top: 550px;
+    left: 90px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 22px;
+}
+.copyright{
+    position: absolute;
+    top: 590px;
+    left: 90px;
+    font-family: sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 13px;
+}
+.ft-list{
+    position: absolute;
+    top: 550px;
+    display: flex;
+    justify-content: space-between;
+    width: 350px;
+    left: 500px;
+}
+.icons{
+    position: absolute;
+    top: 580px;
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    left: 570px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.contact{
+    position: absolute;
+    top: 550px;
+    right: 30px;
+    font-size: 15px;
+    text-align: left;
+}
